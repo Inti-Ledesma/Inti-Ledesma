@@ -8,4 +8,6 @@ puedes sentirte libre de hecharle un vistazo a mis proyectos, preguntarme algo a
 ![Python](https://user-images.githubusercontent.com/98592549/235554113-b310d0d6-0085-4ac8-a56b-94e50a1f1c43.png)
 ![C](https://user-images.githubusercontent.com/98592549/235553665-33d4d34b-a178-4c1d-95c4-36349e438973.png)
 
+Contacto:
+- Mail: ledesmainti0437@gmail.com
 - LinkedIn 💼: www.linkedin.com/in/inti-ezequiel-ledesma-godachevich-8a14ab25a
