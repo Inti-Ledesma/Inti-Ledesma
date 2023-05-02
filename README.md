@@ -5,6 +5,6 @@ Este es un espacio que voy a usar para publicar mis proyectos, trabajos y conoci
 puedes sentirte libre de hecharle un vistazo a mis proyectos, preguntarme algo al respecto, y cualquier propuesta es bienvenida 😄
 
 Lenguajes:
-
+![]()
 
 - LinkedIn 💼: www.linkedin.com/in/inti-ezequiel-ledesma-godachevich-8a14ab25a
